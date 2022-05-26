@@ -1,10 +1,15 @@
 body{
-  background-color: #ffff;
   overflow-x: hidden;
+  margin-top: 0;
+  justify-content: center;
+  
 }
 
+.htmlarriba {
+    height: 0px;
+    width: 0px;
+}
 .fondo  {
-
     width: 1280px;
     height: 720px;
     position: absolute;
